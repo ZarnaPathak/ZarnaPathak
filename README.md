@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zarna Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarnapathak&label=Profile%20views&color=0e75b6&style=flat" alt="zarnapathak" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 👯 I’m looking for Internship on **React and Python**
+- 👯 I’m looking for Internship on **Machine Learning and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZarnaPathak?tab=repositories](https://github.com/ZarnaPathak?tab=repositories)
 
-- 💬 Ask me about **ReactJs, Python**
+- 💬 Ask me about **Machine Learning, Python**
 
 - 📫 How to reach me **pathakzarna0128@gmail.com**
 
