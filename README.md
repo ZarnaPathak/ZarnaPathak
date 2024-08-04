@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Python**
 
-- 📫 How to reach me **pathakzarna0128@gmail.com**
+- 📫 How to reach me **zarnapathak1980@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dDDv9TlhPbP-QKgOtyyE226H7QiIY6YO/view?usp=sharing](https://drive.google.com/file/d/1dDDv9TlhPbP-QKgOtyyE226H7QiIY6YO/view?usp=sharing)
 
