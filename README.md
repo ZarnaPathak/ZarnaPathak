@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarnapathak&label=Profile%20views&color=0e75b6&style=flat" alt="zarnapathak" /> </p>
 
-- 👯 I’m looking for Internship on **Machine Learning and Python**
+- 👯 I’m looking for Internship on **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZarnaPathak?tab=repositories](https://github.com/ZarnaPathak?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Python**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **zarnapathak1980@gmail.com**
 
